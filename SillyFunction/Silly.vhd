@@ -1,4 +1,4 @@
-`timescale 1ns/1ps
+
 module sillyFunction 
 (	input logic a, b, c, 
 	output logic y
